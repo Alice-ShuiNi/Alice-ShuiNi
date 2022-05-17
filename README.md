@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alice-ShuiNi
-- 👀 I’m interested in badminton and speach.
+- 👀 I’m interested in badminton and speech.
 - 🌱 I’m currently learning the code of vue.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
